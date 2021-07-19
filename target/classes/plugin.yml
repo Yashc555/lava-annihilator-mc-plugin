@@ -1,0 +1,9 @@
+name: CancelLavaDamage
+version: 1.0-SNAPSHOT
+main: me.yashc.cancellavadamage.Main
+authors: [Yashc]
+description: Player will not take damage if someone places lava on him (Command /pvp on OR off)
+commands:
+  lavadamage:
+    description: Protects the player from lava!
+    usage: /<command>
