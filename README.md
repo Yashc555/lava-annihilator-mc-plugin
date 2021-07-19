@@ -1,5 +1,5 @@
 # lava-annihilator-mc-plugin
-utorial:
+**Tutorial:**
 https://drive.google.com/file/d/1IqdCDKb9jio8uoNFQ9Qng0218DzFkN4d/view?usp=sharing
 
 **The problem my plugin is trying to solve:**
